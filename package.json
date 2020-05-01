@@ -1,0 +1,11 @@
+{
+  "name": "via-zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "author": "Maxwell macharia",
+  "license": "ISC"
+}
